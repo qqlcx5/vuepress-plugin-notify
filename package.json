@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-plugin-notify",
+  "version": "1.0.8",
+  "description": "Notify plugin for vuepress theme.",
+  "keywords": [
+    "vuepress",
+    "notify",
+    "通知弹出框",
+    "vuepress-plugin-notify"
+  ],
+  "homepage": "https://github.com/qqlcx5",
+  "repository": {
+    "url": "https://github.com/qqlcx5/vuepress-plugin-notify"
+  },
+  "bugs": {
+    "url": "https://github.com/qqlcx5/vuepress-plugin-notify/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "author": "前端有道",
+  "license": "MIT"
+}
