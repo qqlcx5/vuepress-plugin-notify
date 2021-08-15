@@ -4,13 +4,14 @@
 
 Notify plugin for vuepress theme.
 
-基于`vuepress-theme-reco`主题的插件基础上做了一些调整。
+基于`vuepress-theme-reco`主题的插件基础上做了扩展和调整。
 
+[查看插件效果](https://qqlcx5.gitee.io/guide/contact.html)
 ## Usage
 
 **Tips**
 
-当网页的宽度在1200px之内不展示。
+当网页的宽度在1200px内不展示。
 
 ```js
 plugins: [
@@ -100,3 +101,11 @@ plugins: [
 ## contact
 
 ![pubic_w](https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public_w.jpg)
+
+## Update
+
+等后面有时间补上。
+1. 添加模式
+  - 浏览器关闭，下次打开再展示
+  - 常在页面上，不支持关闭
+2. 添加风格
