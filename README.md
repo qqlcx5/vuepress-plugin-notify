@@ -4,9 +4,13 @@
 
 Notify plugin for vuepress theme.
 
-基于vuepress-theme-reco主题的插件基础上做了一些调整。
+基于`vuepress-theme-reco`主题的插件基础上做了一些调整。
 
 ## Usage
+
+**Tips**
+
+当网页的宽度在1200px之内不展示。
 
 ```js
 plugins: [
@@ -95,10 +99,4 @@ plugins: [
 
 ## contact
 
-**微信**
-
-![wechat](https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/wechat.jpeg)
-
-**前端有道公众号**
-
-![wechat](https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public.jpg)
+![pubic_w](https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public_w.jpg)
